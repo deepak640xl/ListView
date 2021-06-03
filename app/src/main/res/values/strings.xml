@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="data">
+    <item>CPP</item>
+        <item>JAVA</item>
+        <item>Python</item>
+        <item>Android</item>
+        <item>JAVA</item>
+        <item>Python</item>
+        <item>Android</item>
+        <item>JAVA</item>
+        <item>Python</item>
+        <item>Android</item>
+        <item>JAVA</item>
+        <item>Python</item>
+        <item>Android</item>
+        <item>JAVA</item>
+        <item>Python</item>
+        <item>Android</item>
+        <item>JAVA</item>
+        <item>Python</item>
+        <item>Android</item>
+
+
+
+
+    </string-array>
+</resources>
